@@ -1,1 +1,3 @@
-# ss_exercises
+# Stochastic Simulation Exercises
+
+@author Carlos Parra Marcelo
